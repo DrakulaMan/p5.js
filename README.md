@@ -1,2 +1,6 @@
 # p5.js
-My p5.js projects
+function description () {
+		text("Hello, i'm a robot.");
+		text("I'm making some p5.js projects,");
+		text("I hope you likey likey them!");
+}
